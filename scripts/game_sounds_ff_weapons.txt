@@ -430,6 +430,17 @@
 		"wave"			"weapons/pipelauncher/pipe_bounce1.wav"
 	}
 //----------------
+//Jumpgun
+//----------------
+	"jumpgun.single_shot"
+	{
+		"channel"		"CHAN_WEAPON"
+		"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.6"
+		"pitch"			"95,105"
+		"wave"			"weapons/jumpgun/jumpgun-fire.wav"
+	}
+//----------------
 //Railgun, poor thing, you kicked arse in Quake 3
 //----------------
 	"railgun.single_shot"
